@@ -194,6 +194,7 @@ struct data mitibiki(struct data s, int sintyoku)
     else if(n - sidex <= 2){
         printf("1.Hi\n");
         i = 0;
+        //hello
 
         x_left = sidex;
         y_left = sidey + 1;
